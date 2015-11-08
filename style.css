@@ -1,0 +1,156 @@
+/* CSS boilerplate starts here */
+
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+blockquote, q { quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after { content: ""; content: none; }
+
+ins { background-color: #ff9; color: #000; text-decoration: none; }
+
+mark { background-color: #ff9; color: #000; font-style: italic; font-weight: bold; }
+
+del { text-decoration: line-through; }
+
+abbr[title], dfn[title] { border-bottom: 1px dotted; cursor: help; }
+
+table { border-collapse: collapse; border-spacing: 0; }
+
+hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0; }
+
+input, select { vertical-align: middle; }
+
+/* CSS starts here */
+
+
+#page {background: white;}
+
+nav {
+    margin-top: 6px;
+    padding-left: 20px;
+	margin-bottom: 30px;
+    font-family: Geneva;
+    font-size: 15px;
+    text-align: left;
+    background-color: #B0B0B0;}
+
+#modal-popup { 
+    padding-left: 2px;
+    font-size: 13px;
+    height: 30px;
+    width: 180px;
+    background: #FF6600 ;
+    z-index: 99;
+    position: fixed;
+    top: 30px;
+    left: 1180px;
+    }
+
+#example-photo {
+    padding-top: 30px;
+    padding-left: 20px;}
+
+
+p {
+    color: #B0B0B0;
+    padding-left: 20px;
+    line-height: 180%;
+	font-family: helvetica;}
+
+h1 {
+    color: #B0B0B0;
+    word-spacing: 15px;
+	font-family: 'Monoton';
+	font-size: 70px;
+	text-align: center;
+	font-variant: small-caps;
+	letter-spacing: 0px;}
+
+.album-covers {
+	text-align: center;
+	border: solid 10px;
+	color: white;}
+
+#XX {
+	float: inherit;
+	width: 190px;
+	height: 190px;
+	margin-right: 10px}
+
+#weeknd {
+	float: inherit;
+	width: 190px;
+	height: 190px;
+	margin-right: 10px}
+
+
+#shakes {
+	float: inherit;
+	width: 190px;
+	height: 190px;
+	margin-right: 10px}
+
+
+#pools {
+	float: inherit;
+	width: 190px;
+	height: 190px;
+	margin-right: 10px}
+
+
+#men {
+	float: inherit;
+	width: 190px;
+	height: 190px;
+	margin-right: 10px}
+
+.spotify-logo {
+	width: 25px;
+	height: 25px;}
+
+ol {display: inline;}
+
+li{
+	display: inline;
+  	margin-right: 50px;}
+
+h2{
+	margin-top: 45px;
+   	font-size: 23px;
+	font-family: helvetica;
+	text-align: center;
+	font-weight: lighter;
+	color: black;}
+
+h3 {
+    font-family: Times New Roman;
+    padding-left: 20px;
+    line-height: 150%;
+ 	color: #B0B0B0;}
+
+
+/* write your CSS here */
+
+
